@@ -74,9 +74,9 @@
 
 ---
 
-<!-- CI/CD & DevOps Workflow Animation -->
+<!-- Animated CI/CD Workflow Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknair3/abhisheknair3/master/assets/git-stats.gif" width="600" alt="CI/CD Pipeline Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:232F3E&height=120&section=footer&text=⚡%20Continuous%20Integration%20%26%20Deployment%20Automation&fontSize=22&fontColor=ffffff" width="100%" alt="CI/CD Header" />
 </div>
 
 ---

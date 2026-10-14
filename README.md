@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,10 +14,9 @@
 
 ---
 
-<!-- Live Coding / Cartoon Developer Graphic -->
+<!-- Animated Developer / Coding Visual -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/images/programming.gif" width="350" alt="Coding Cartoon Animation">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="350" alt="DevOps Workflow Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:232F3E&height=120&section=header&text=Cloud%20%26%20DevOps%20Automation&fontSize=28&fontColor=ffffff" width="100%" />
 </div>
 
 ---
@@ -81,16 +80,7 @@
 
 ---
 
-<!-- Cloud / DevOps Live Graphic -->
+<!-- Footer Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer.gif" alt="Cloud Developer Animation" width="400" />
-</div>
-
----
-
-<!-- Visitor Badge & Footer -->
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Profile_Views-Active-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
   <p>💡 "Building the future, one deployment at a time"</p>
 </div>

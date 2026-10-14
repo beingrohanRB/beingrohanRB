@@ -42,7 +42,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=beingrohanRB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="410"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="370"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" width="370"/>
       </td>
     </tr>
   </table>
@@ -91,6 +91,6 @@
 <!-- Visitor Badge & Footer -->
 <div align="center">
   <br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbeingrohanRB&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/></a>
-  <p><small>⚡ Built with clean Markdown, dynamic stats, and a passion for cloud automation.</small></p>
+  <img src="https://img.shields.io/badge/Profile_Views-Active-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  <p>💡 "Building the future, one deployment at a time"</p>
 </div>

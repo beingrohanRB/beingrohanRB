@@ -1,13 +1,13 @@
 <!-- Typing SVG Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- Social & Contact Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/kushal-bhattacharjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kushal-bhattacharjee-5a835412b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rohanbhattacharjee60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Bangalore,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </div>
@@ -34,7 +34,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=beingrohanRB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="410"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" width="370"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="370"/>
       </td>
     </tr>
   </table>
@@ -73,7 +73,16 @@
 
 ---
 
-<!-- Footer Section -->
+<!-- Animated Dev Workflows Graphic -->
 <div align="center">
-  <p>💡 "Building the future, one deployment at a time"</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="600" alt="DevOps Workflow Animation">
+</div>
+
+---
+
+<!-- Visitor Badge & Footer -->
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=beingrohanRB&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
+  <p><small>⚡ Building the future, one deployment at a time.</small></p>
 </div>

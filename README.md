@@ -1,23 +1,14 @@
 <!-- Typing SVG Banner -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=800&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
+</p>
 
 <!-- Social & Contact Badges -->
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/kushal-bhattacharjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rohanbhattacharjee60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Bangalore,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-</div>
-
----
-
-<!-- Animated Developer / Coding Visual -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:232F3E&height=120&section=header&text=Cloud%20%26%20DevOps%20Automation&fontSize=28&fontColor=ffffff" width="100%" />
-</div>
+</p>
 
 ---
 
@@ -34,27 +25,20 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=beingrohanRB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="410"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" width="370"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beingrohanRB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages" width="48%" />
+</p>
 
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohanRB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohanRB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -67,7 +51,7 @@
 | **Networking & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
-</div>
+</p>
 
 ---
 
@@ -81,6 +65,6 @@
 ---
 
 <!-- Footer Section -->
-<div align="center">
-  <p>💡 "Building the future, one deployment at a time"</p>
-</div>
+<p align="center">
+  💡 "Building the future, one deployment at a time"
+</p>

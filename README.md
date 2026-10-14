@@ -1,60 +1,51 @@
-<!-- Header Banner -->
+<!-- Typing SVG Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,30,35&height=180&section=header&text=Hi%20there,%20I'm%20Kushal!%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- Intro / Role -->
+<!-- Social & Contact Badges -->
 <div align="center">
-  <h3>🚀 <b>DevOps Engineer</b> | Cloud & Infrastructure Automation Specialist</h3>
-  <p>Building scalable CI/CD pipelines, automating infrastructure, and managing Kubernetes-based platforms.</p>
-  
-  <!-- Social & Contact Badges -->
-  <p>
-    <a href="https://linkedin.com/in/kushal-bhattacharjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:rohanbhattacharjee60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <img src="https://img.shields.io/badge/Location-Bangalore,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  </p>
+  <a href="https://linkedin.com/in/kushal-bhattacharjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rohanbhattacharjee60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Bangalore,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
 * 💼 **Current Role:** DevOps Engineer at **Tata Consultancy Services (TCS)** (Apr 2021 – Present)[cite: 1].
-* 🛠️ **Core Expertise:** Building and optimizing CI/CD pipelines (reducing deployment time by 20%), managing EKS workloads supporting 200+ pods, and automating AWS & VMware infrastructure[cite: 1].
-* ☁️ **Cloud & Systems:** AWS, VMware vSphere/ESXi, Linux (RHEL, Ubuntu), and Windows Server[cite: 1].
+* 🛠️ **Core Expertise:** Building & optimizing CI/CD pipelines (reducing deployment time by 20%), managing EKS workloads supporting 200+ pods, and automating AWS & VMware infrastructure[cite: 1].
+* 🌱 **Always Learning:** Emerging DevOps practices, cloud-native architecture, and GitOps automation[cite: 1].
+* 💬 **Ask me about:** Kubernetes, AWS, Terraform, Docker, Ansible, and CI/CD pipelines[cite: 1].
 * 🎓 **Education:** B.Tech in Computer Science from Bengal College of Engineering and Technology (2016–2020)[cite: 1].
 * 📜 **Certifications:** AWS Certified Cloud Practitioner[cite: 1].
 
 ---
 
-<!-- DevOps Visual Banner -->
-<div align="center">
-  <img src="https://repobeats.axiom.co/api/embed/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.svg" alt="Metrics Banner" width="100%" />
-</div>
-
----
-
-### 📊 GitHub Stats & Metrics
-
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with your exact GitHub handle.
+### 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=beingrohanRB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="410"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohanRB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="370"/>
       </td>
     </tr>
   </table>
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohanRB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -73,25 +64,18 @@
 
 ---
 
-### 🚀 Featured Project: DevBoard Platform & Infrastructure Automation
+### 📌 Featured Project: DevBoard Platform & Infrastructure Automation
 
 * ⚡ **Automated Provisioning:** Programmatically provisioned RHEL VMs in VMware using Terraform with custom reusable IaC modules[cite: 1].
 * ⚙️ **Configuration Management:** Automated server hardening, software provisioning, security, and compliance policies across environments using Ansible[cite: 1].
-* 🔄 **GitOps Pipeline:** Seamlessly integrated infrastructure provisioning into GitOps workflows using GitHub Actions and ArgoCD[cite: 1].
-* 🛡️ **Security & Reliability:** Standardized SSH access controls, local DNS resolutions, and TLS certificate bindings, significantly lowering deployment overhead[cite: 1].
-
----
-
-<!-- Animated Dev Workflows Graphic -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="600" alt="DevOps Workflow Animation">
-</div>
+* 🔄 **GitOps Pipeline:** Integrated infrastructure provisioning into GitOps workflows using GitHub Actions and ArgoCD[cite: 1].
+* 🛡️ **Security & Reliability:** Standardized SSH access controls, local DNS resolutions, and TLS certificate bindings, lowering deployment overhead[cite: 1].
 
 ---
 
 <!-- Visitor Badge & Footer -->
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=beingrohanRB&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
   <p><small>⚡ Built with clean Markdown, dynamic stats, and a passion for cloud automation.</small></p>
 </div>

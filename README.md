@@ -15,6 +15,13 @@
 
 ---
 
+<!-- Animated Cloud & CI/CD Pipeline Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:2088FF,100:232F3E&height=180&section=header&text=⚙️%20CI/CD%20%7C%20GitOps%20%7C%20Cloud%20Automation&fontSize=26&fontColor=ffffff&animation=twinkle" width="100%" alt="CI/CD Cloud Banner" />
+</div>
+
+---
+
 ### 🚀 About Me
 
 * 💼 **Current Role:** DevOps Engineer at **Tata Consultancy Services (TCS)** (Apr 2021 – Present).
@@ -74,16 +81,8 @@
 
 ---
 
-<!-- Animated Cloud & CI/CD Pipeline Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:2088FF,100:232F3E&height=180&section=header&text=⚙️%20CI/CD%20%7C%20GitOps%20%7C%20Cloud%20Automation&fontSize=26&fontColor=ffffff&animation=twinkle" width="100%" alt="CI/CD Cloud Banner" />
-</div>
-
----
-
 <!-- Visitor Badge & Footer -->
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=beingrohanRB&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
-  <p><small>⚡ Built with clean Markdown, dynamic stats, and a passion for cloud automation.</small></p>
+  <p><small>⚡ Building the future, one deployment at a time.</small></p>
 </div>

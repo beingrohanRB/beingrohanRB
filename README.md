@@ -84,6 +84,5 @@
 <!-- Visitor Badge & Footer -->
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=beingrohanRB&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
   <p><small>⚡ Building the future, one deployment at a time.</small></p>
 </div>

@@ -8,7 +8,8 @@
 <!-- Social & Contact Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/kushal-bhattacharjee-5a835412b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rohanbhattacharjee60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/beingrohanbhattacharjee/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <img src="https://img.shields.io/badge/Email-rohanbhattacharjee60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   <img src="https://img.shields.io/badge/Location-Bangalore,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </div>
 
@@ -84,5 +85,5 @@
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=beingrohanRB&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
-  <p><small>⚡ Building the future, one deployment at a time.</small></p>
+  <p><small>⚡ Built with clean Markdown, dynamic stats, and a passion for cloud automation.</small></p>
 </div>

@@ -74,9 +74,9 @@
 
 ---
 
-<!-- Animated CI/CD Workflow Header -->
+<!-- Animated Cloud & CI/CD Pipeline Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:232F3E&height=120&section=footer&text=⚡%20Continuous%20Integration%20%26%20Deployment%20Automation&fontSize=22&fontColor=ffffff" width="100%" alt="CI/CD Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:2088FF,100:232F3E&height=180&section=header&text=⚙️%20CI/CD%20%7C%20GitOps%20%7C%20Cloud%20Automation&fontSize=26&fontColor=ffffff&animation=twinkle" width="100%" alt="CI/CD Cloud Banner" />
 </div>
 
 ---

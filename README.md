@@ -74,4 +74,23 @@
 
 ### 📌 Featured Project: DevBoard Platform & Infrastructure Automation
 
-* ⚡ **Automated Provisioning:** Programmatically
+* ⚡ **Automated Provisioning:** Programmatically provisioned RHEL VMs in VMware using Terraform with custom reusable IaC modules.
+* ⚙️ **Configuration Management:** Automated server hardening, software provisioning, security, and compliance policies across environments using Ansible.
+* 🔄 **GitOps Pipeline:** Integrated infrastructure provisioning into GitOps workflows using GitHub Actions and ArgoCD.
+* 🛡️ **Security & Reliability:** Standardized SSH access controls, local DNS resolutions, and TLS certificate bindings, lowering deployment overhead.
+
+---
+
+<!-- Cloud / DevOps Live Graphic -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer.gif" alt="Cloud Developer Animation" width="400" />
+</div>
+
+---
+
+<!-- Visitor Badge & Footer -->
+<div align="center">
+  <br/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbeingrohanRB&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/></a>
+  <p><small>⚡ Built with clean Markdown, dynamic stats, and a passion for cloud automation.</small></p>
+</div>

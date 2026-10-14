@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Kushal+Bhattacharjee+👋;DevOps+Engineer+%7C+Cloud+Specialist;Automating+Infrastructure+%26+Kubernetes" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,6 +10,14 @@
   <a href="https://linkedin.com/in/kushal-bhattacharjee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:rohanbhattacharjee60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Bangalore,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+</div>
+
+---
+
+<!-- Live Coding / Cartoon Developer Graphic -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/images/programming.gif" width="350" alt="Coding Cartoon Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="350" alt="DevOps Workflow Animation">
 </div>
 
 ---
@@ -70,6 +78,13 @@
 * ⚙️ **Configuration Management:** Automated server hardening, software provisioning, security, and compliance policies across environments using Ansible[cite: 1].
 * 🔄 **GitOps Pipeline:** Integrated infrastructure provisioning into GitOps workflows using GitHub Actions and ArgoCD[cite: 1].
 * 🛡️ **Security & Reliability:** Standardized SSH access controls, local DNS resolutions, and TLS certificate bindings, lowering deployment overhead[cite: 1].
+
+---
+
+<!-- Cloud / DevOps Live Graphic -->
+<div align="center">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-Engineer.gif" alt="Cloud Developer Animation" width="400" />
+</div>
 
 ---
 

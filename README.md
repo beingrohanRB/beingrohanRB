@@ -74,9 +74,9 @@
 
 ---
 
-<!-- Animated Dev Workflows Graphic -->
+<!-- CI/CD & DevOps Workflow Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d88506d50ef.gif" width="600" alt="DevOps Workflow Animation">
+  <img src="https://raw.githubusercontent.com/abhisheknair3/abhisheknair3/master/assets/git-stats.gif" width="600" alt="CI/CD Pipeline Animation">
 </div>
 
 ---
@@ -84,5 +84,6 @@
 <!-- Visitor Badge & Footer -->
 <div align="center">
   <br/>
-  <p><small>⚡ Building the future, one deployment at a time.</small></p>
+  <img src="https://komarev.com/ghpvc/?username=beingrohanRB&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views" />
+  <p><small>⚡ Built with clean Markdown, dynamic stats, and a passion for cloud automation.</small></p>
 </div>
